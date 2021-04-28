@@ -1,0 +1,9 @@
+﻿ IP-адрес пользователя;наименование используемого браузера;наименование используемой ОС
+192.168.0.1;Firefox;Linux
+192.168.0.2;Firefox;Windows
+192.168.0.3;Chrome;Windows
+192.168.0.5;IE;Windows
+192.168.0.6;Chrome;Linux
+192.168.0.8;Opera;Mac
+192.168.0.9;Firefox;Mac
+192.168.0.10;Firefox;Mac

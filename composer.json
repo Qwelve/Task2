@@ -1,0 +1,16 @@
+{
+    "name": "qwelve/n2",
+    "authors": [
+        {
+            "name": "qwelve",
+            "email": "grisha@kuchkaskov.me"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Qwelve\\N2\\" : ""
+        }
+    }
+}

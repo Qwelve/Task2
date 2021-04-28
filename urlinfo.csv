@@ -1,0 +1,11 @@
+﻿дата;время;IP-адрес пользователя;URL страницы, с которой зашел;URL страницы, на которую зашел
+01.01.2021;10:20;192.168.0.1;https://mysite.ru/test?ref=101;https://mysite.ru/test?cur=1
+02.01.2021;11:20;192.168.0.2;https://mysite.ru/test?ref=2;https://mysite.ru/test?cur=2
+03.01.2021;12:20;192.168.0.3;https://mysite.ru/test?ref=3;https://mysite.ru/test?cur=3
+04.01.2021;13:20;192.168.0.4;https://mysite.ru/test?ref=4;https://mysite.ru/test?cur=4
+05.01.2021;14:20;192.168.0.1;https://mysite.ru/test?ref=5;https://mysite.ru/test?cur=5
+06.01.2021;15:20;192.168.0.1;https://mysite.ru/test?ref=6;https://mysite.ru/test?cur=6
+07.01.2021;16:20;192.168.0.7;https://mysite.ru/test?ref=7;https://mysite.ru/test?cur=7
+08.01.2021;17:20;192.168.0.8;https://mysite.ru/test?ref=8;https://mysite.ru/test?cur=8
+09.01.2021;18:20;192.168.0.9;https://mysite.ru/test?ref=9;https://mysite.ru/test?cur=9
+10.01.2021;19:20;192.168.0.2;https://mysite.ru/test?ref=10;https://mysite.ru/test?cur=10
